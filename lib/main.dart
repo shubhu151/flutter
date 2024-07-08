@@ -44,7 +44,7 @@ class HomePage extends StatelessWidget {
     return  Scaffold(
       backgroundColor: Colors.cyanAccent,
       appBar: AppBar(
-        title: Text('Flutter In-App Update'),
+        title: Text('Flutter Update'),
         backgroundColor: Colors.greenAccent,
       )
     );
